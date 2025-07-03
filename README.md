@@ -2,6 +2,10 @@
 
 A stunning real estate landing page featuring interactive SVG animations and smooth scroll effects. Experience the future of property showcasing with immersive animations that bring buildings to life.
 
+# Preview 
+
+![image alt](https://github.com/dev0jha/Animation_Estate/blob/1f2670034306b785039c68a3085e6573b22b9489/Screenshot%202025-07-02%20230722.png)
+
 
 ## 🏢 Features
 
